@@ -1,4 +1,3 @@
-import { Children } from 'react'
 import styles from './PostModelo.module.css'
 
 const PostModelo = ({ fotoCapa, titulo, children}) => {
